@@ -25,5 +25,5 @@ public class Camion extends Vehiculo implements Imultable{
 	public void setCantidadDeEjes(Integer cantidadDeEjes) {
 		this.cantidadDeEjes = cantidadDeEjes;
 	}
-	
+
 }
